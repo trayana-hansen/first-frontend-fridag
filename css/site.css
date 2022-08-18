@@ -39,9 +39,9 @@ header p {
   justify-content: center;
 }
 
+/* gallery specific styling*/
 .galleryCard {
   display: block;
-
   background-color: #eeeeee;
   border: 2px solid black;
   border-radius: 10px;
